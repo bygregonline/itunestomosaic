@@ -18,17 +18,17 @@ To install run this code:
 
 Original Image
 
-![Mosaic Image](itunestomosaic/orginal.jpg)  
+![Mosaic Image](https://raw.githubusercontent.com/bygregonline/itunestomosaic/master/orginal.jpg)  
 
 
 Mp3 library to mosaic
 
-![Mosaic Image](itunestomosaic/mosaic.jpeg)  
+![Mosaic Image](https://raw.githubusercontent.com/bygregonline/itunestomosaic/master/mosaic.jpeg)  
 
 
 
 
 Zoom image
 
-![Mosaic Image](itunestomosaic/zoom.png)  
+![Mosaic Image](https://raw.githubusercontent.com/bygregonline/itunestomosaic/master/zoom.png)  
 
